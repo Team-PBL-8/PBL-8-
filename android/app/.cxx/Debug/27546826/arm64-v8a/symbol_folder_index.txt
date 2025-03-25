@@ -1,0 +1,1 @@
+C:\Users\majki\AndroidStudioProjects\test_camera\build\app\intermediates\cxx\Debug\27546826\obj\arm64-v8a

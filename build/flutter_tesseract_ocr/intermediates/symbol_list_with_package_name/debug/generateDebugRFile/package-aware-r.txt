@@ -1,0 +1,1 @@
+io.paratoner.flutter_tesseract_ocr

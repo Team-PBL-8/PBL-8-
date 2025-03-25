@@ -1,0 +1,2 @@
+C:/Users/cs406-19/test_camera/android/app/.cxx/Debug/70323l66/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/cs406-19/test_camera/android/app/.cxx/Debug/70323l66/armeabi-v7a/CMakeFiles/rebuild_cache.dir
